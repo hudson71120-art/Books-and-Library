@@ -1,0 +1,6 @@
+{
+  "name": "Books and Friends App",
+  "description": "Book club and reading session web app connected with Open Library API and Supabase backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
